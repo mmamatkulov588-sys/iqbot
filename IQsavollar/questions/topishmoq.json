@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Qanday narsa bor: ko'zi bor, ammo ko'rmaydi?",
+    "options": [
+      "Ko'zgu",
+      "Ko'r odam",
+      "Devor",
+      "Igna"
+    ],
+    "answer": "Igna",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Erta keladi, kech ketadi, qish kelib yo'qoladi — bu nima?",
+    "options": [
+      "Quyosh",
+      "Qor",
+      "Tun",
+      "Kun"
+    ],
+    "answer": "Quyosh",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qulog'i bor, eshitmaydi — bu nima?",
+    "options": [
+      "Ko'za",
+      "Igna",
+      "Kashtalar",
+      "Stakan"
+    ],
+    "answer": "Ko'za",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Tishi bor, tishlamas — bu nima?",
+    "options": [
+      "Taroq",
+      "Bolg'a",
+      "Ko'ra",
+      "Arra"
+    ],
+    "answer": "Taroq",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Oqadi, lekin suv emas; yonadi, lekin olov emas — bu nima?",
+    "options": [
+      "Vaqt",
+      "Elektr",
+      "Qon",
+      "Shamol"
+    ],
+    "answer": "Vaqt",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Yuradi, lekin oyog'i yo'q — bu nima?",
+    "options": [
+      "Tog'",
+      "Mashina",
+      "Daryo",
+      "Soat"
+    ],
+    "answer": "Soat",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Hamma kiradi, hech kim chiqmaydi — bu nima?",
+    "options": [
+      "Hammom",
+      "Uy",
+      "Non",
+      "Qabr"
+    ],
+    "answer": "Qabr",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qancha ko'p olsang, shuncha ko'p qoladi — bu nima?",
+    "options": [
+      "Non",
+      "Bilim",
+      "Pul",
+      "Suv"
+    ],
+    "answer": "Bilim",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Kecha keldi, bugun bor, ertaga yo'q — bu nima?",
+    "options": [
+      "Tun",
+      "Oy",
+      "Bugun",
+      "Tush"
+    ],
+    "answer": "Bugun",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Ko'tariladi, lekin tushmasdan oldin o'ladi — bu nima?",
+    "options": [
+      "Tutun",
+      "Shamol",
+      "Quyosh",
+      "Qor"
+    ],
+    "answer": "Tutun",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Yuk ko'taradi, lekin qo'li yo'q — bu nima?",
+    "options": [
+      "Mashina",
+      "Temir",
+      "Ot",
+      "Ko'prik"
+    ],
+    "answer": "Ko'prik",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Har doim oldinga yuradi, orqaga qaytmas — bu nima?",
+    "options": [
+      "Shamol",
+      "Quyosh",
+      "Vaqt",
+      "Daryo"
+    ],
+    "answer": "Vaqt",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Chaqirmasang kelmaydi, chaqirsang keladi — bu nima?",
+    "options": [
+      "Aks-sado",
+      "Shamol",
+      "Tosh",
+      "Ko'lak"
+    ],
+    "answer": "Aks-sado",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Oq kiyingan, qo'li uzun — bu nima?",
+    "options": [
+      "Qor",
+      "Bulut",
+      "Limon",
+      "Qayin daraxti"
+    ],
+    "answer": "Qayin daraxti",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Suyagi bor, ammo go'shti yo'q — bu nima?",
+    "options": [
+      "Daraxt",
+      "Skelet",
+      "Baliq",
+      "Daryo"
+    ],
+    "answer": "Skelet",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qanchalik yuvsan, shuncha ko'payadigan narsa nima?",
+    "options": [
+      "Ко'l",
+      "Ko'piklar",
+      "Loyqa suv",
+      "Bulut"
+    ],
+    "answer": "Ko'piklar",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qanotli, ammo uchmas — bu nima?",
+    "options": [
+      "Ventilyator",
+      "Kapalak",
+      "Samolyot",
+      "Parvoz"
+    ],
+    "answer": "Ventilyator",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Dunyo bo'ylab sayohat qiladi, bir joyda qoladi — bu nima?",
+    "options": [
+      "Pul",
+      "Pochta markasi",
+      "Pasport",
+      "Kitob"
+    ],
+    "answer": "Pochta markasi",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Suv ichida yashaydi, lekin ho'l emas — bu nima?",
+    "options": [
+      "Kemaning ichki qismi",
+      "Pufakcha",
+      "Baliqning qorni",
+      "Qayiq"
+    ],
+    "answer": "Kemaning ichki qismi",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Ko'z bilan ko'rmaysan, lekin u bilan o'lchayman — bu nima?",
+    "options": [
+      "Vaqt",
+      "Baxt",
+      "Sevgi",
+      "Havo"
+    ],
+    "answer": "Vaqt",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Men gapirganda hamma jim bo'ladi, jim bo'lganda hamma gapiradi — bu nima?",
+    "options": [
+      "Muazzin",
+      "Ovoz",
+      "O'qituvchi",
+      "Radio"
+    ],
+    "answer": "O'qituvchi",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Katta ko'ra kichik, kichik ko'ra katta bo'ladigan narsa nima?",
+    "options": [
+      "Ko'z qaroqchisi",
+      "Rasm",
+      "Ko'zgu",
+      "Oyna"
+    ],
+    "answer": "Ko'zgu",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Uning boshi bor, lekin miyasi yo'q; oyog'i bor, lekin yurmaydi — bu nima?",
+    "options": [
+      "Ko'rpа",
+      "Zardobl",
+      "Qoziq",
+      "Mixcha"
+    ],
+    "answer": "Mixcha",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qanchalik tortib tursa, shuncha yuqori ko'tariladi — bu nima?",
+    "options": [
+      "Uçurtma",
+      "Havo shari",
+      "Bulut",
+      "Tutun"
+    ],
+    "answer": "Uçurtma",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Ikki uchi bor: biri tikadi, biri o'chiradi — bu nima?",
+    "options": [
+      "Igna",
+      "Qalam",
+      "Qaychi",
+      "Ruchka"
+    ],
+    "answer": "Qalam",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Toqqa chiqasan — kichrayasan, pastga tushasan — kattalasasan — bu nima?",
+    "options": [
+      "Ko'l",
+      "Yo'l",
+      "Daryo",
+      "Temir yo'l"
+    ],
+    "answer": "Yo'l",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Kundi keladi, lekin sanasini bilmayman — bu nima?",
+    "options": [
+      "Tug'ilgan kun",
+      "Oy",
+      "Bayram",
+      "Fasl"
+    ],
+    "answer": "Tug'ilgan kun",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Suv ichiga tushsa ham ho'l bo'lmaydi — bu nima?",
+    "options": [
+      "Havo",
+      "Soya",
+      "Ko'lanka",
+      "Nur"
+    ],
+    "answer": "Soya",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Har kuni o'ladi, har kuni tug'iladi — bu nima?",
+    "options": [
+      "Tun",
+      "Quyosh",
+      "Kun",
+      "Oy"
+    ],
+    "answer": "Kun",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Uzun bo'lsa ham, qisqa ham — lekin doira emas — bu nima?",
+    "options": [
+      "Kun",
+      "Yil",
+      "Soat",
+      "Oy"
+    ],
+    "answer": "Oy",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Men qanchalik ko'p bo'lsam, shuncha oz ko'rinaman — bu nima?",
+    "options": [
+      "Teshik",
+      "Havo",
+      "Shovqin",
+      "Qorongʻilik"
+    ],
+    "answer": "Teshik",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Hech kim sotib ololmaydi, hech kim berib yubormaydi — bu nima?",
+    "options": [
+      "Sevgi",
+      "Vaqt",
+      "Sog'liq",
+      "Baxt"
+    ],
+    "answer": "Vaqt",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Boshi bor, ammo miyasi yo'q; orqasi bor, ammo oyog'i yo'q — bu nima?",
+    "options": [
+      "Kamon",
+      "Karavot",
+      "Stul",
+      "Kitob"
+    ],
+    "answer": "Kitob",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Katta qopga sig'adi, ammo igna uchiga sig'magan narsa nima?",
+    "options": [
+      "Shovqin",
+      "Yorug'lik",
+      "Havo",
+      "Shamol"
+    ],
+    "answer": "Shovqin",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Inson uchun eng qimmat, ammo pulga sotilmaydi — bu nima?",
+    "options": [
+      "Umr",
+      "Sog'liq",
+      "Sevgi",
+      "Do'stlik"
+    ],
+    "answer": "Umr",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qanchalik ishlatilsa, shuncha o'tkir bo'ladi — bu nima?",
+    "options": [
+      "Ko'z",
+      "Aql",
+      "Qilich",
+      "Quloq"
+    ],
+    "answer": "Aql",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Har bir odamda bor, ammo hech kim boshqaga bera olmaydi — bu nima?",
+    "options": [
+      "Soya",
+      "Ism",
+      "Nafas",
+      "Ovoz"
+    ],
+    "answer": "Soya",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Men bo'lmasam, hech narsa ko'rinmaydi; men bo'lsam, hech narsa yo'qoladi — bu nima?",
+    "options": [
+      "Ko'z",
+      "Zulmat",
+      "Ko'zoynak",
+      "Yorug'lik"
+    ],
+    "answer": "Yorug'lik",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "O'n barmoq bilan ushlasa bo'lmaydi — bu nima?",
+    "options": [
+      "Suv",
+      "Shamol",
+      "Vaqt",
+      "Havo"
+    ],
+    "answer": "Shamol",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Hamma narsani yutadi, lekin och qoladi — bu nima?",
+    "options": [
+      "Ko'l",
+      "O'ch",
+      "Botqoq",
+      "Dengiz"
+    ],
+    "answer": "Dengiz",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "O't emas, ammo ko'k; tosh emas, ammo qattiq; suv emas, ammo to'lqinlanadi — bu nima?",
+    "options": [
+      "Ko'l",
+      "Ko'z",
+      "Shisha",
+      "Osmon"
+    ],
+    "answer": "Osmon",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Katta-yu kichik barchada bor, ammo hech kim ko'rmaydi, hech kim bermas — bu nima?",
+    "options": [
+      "Kelajak",
+      "Aql",
+      "Nafas",
+      "Soya"
+    ],
+    "answer": "Nafas",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Ko'z ko'radi, quloq eshitadi, ammo til aye olmaydi — bu nima?",
+    "options": [
+      "Tush",
+      "Sir",
+      "Og'riq",
+      "Hid"
+    ],
+    "answer": "Sir",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Yerga tushsa sinadi, suvga tushsa yo'qoladi — bu nima?",
+    "options": [
+      "Muz",
+      "Qog'oz",
+      "Tuxum",
+      "Shisha"
+    ],
+    "answer": "Muz",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Har bir narsani bosib o'tadi, lekin o'zi izlar qoldirmaydi — bu nima?",
+    "options": [
+      "Vaqt",
+      "Shamol",
+      "Yorug'lik",
+      "Nur"
+    ],
+    "answer": "Vaqt",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Bir necha bor ishlatsang, har safar yangi bo'ladi — bu nima?",
+    "options": [
+      "Fikr",
+      "So'z",
+      "Hafiza",
+      "Ko'z"
+    ],
+    "answer": "So'z",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Uning ichida ko'p narsalar bor, lekin og'irligi yo'q — bu nima?",
+    "options": [
+      "Fikr",
+      "Tush",
+      "Kitob",
+      "Xotira"
+    ],
+    "answer": "Fikr",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Ikki inson bir-birini bir vaqtda ushlab tura olmaydi — bu nima?",
+    "options": [
+      "Bir joy",
+      "Bir narsa",
+      "Bir lahza",
+      "Bir nom"
+    ],
+    "answer": "Bir lahza",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Hamma narsaga sig'adi, lekin hech narsa unga sig'maydi — bu nima?",
+    "options": [
+      "Vaqt",
+      "Fazoviy boʻshliq",
+      "Nur",
+      "Havo"
+    ],
+    "answer": "Fazoviy boʻshliq",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Dunyoda eng yengilroq va eng og'irroq — bu nima?",
+    "options": [
+      "Baxt",
+      "Fikr",
+      "Vijdon",
+      "Orzу"
+    ],
+    "answer": "Vijdon",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qo'lim bor, yoza olmayman — bu nima?",
+    "options": [
+      "Shkaf",
+      "Eshik",
+      "Soat",
+      "Stul"
+    ],
+    "answer": "Soat",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Har kuni yangi kiyim kiyadi — bu nima?",
+    "options": [
+      "Ko'cha",
+      "Osmon",
+      "Daraxt",
+      "Daryo"
+    ],
+    "answer": "Daraxt",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Qanchalik qarasang, shuncha uzoqlashadi — bu nima?",
+    "options": [
+      "Tog'",
+      "Ufq",
+      "Soya",
+      "Ko'lanka"
+    ],
+    "answer": "Ufq",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Bir oyog'i bor, ammo yura olmaydi — bu nima?",
+    "options": [
+      "Qo'ziqorin",
+      "Stul",
+      "Daraxt",
+      "Ko'za"
+    ],
+    "answer": "Qo'ziqorin",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Har doim to'g'ri gapiradi, lekin tili yo'q — bu nima?",
+    "options": [
+      "Ko'zgu",
+      "Kitob",
+      "Rasm",
+      "Fotosurat"
+    ],
+    "answer": "Ko'zgu",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Bir marta qarasang ko'rinadi, ikki marta qarasang yo'qoladi — bu nima?",
+    "options": [
+      "Kamalak",
+      "Tush",
+      "Ko'z yoshi",
+      "Yulduz"
+    ],
+    "answer": "Tush",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Eti yo'q, suyagi yo'q, ammo qadam bosadi — bu nima?",
+    "options": [
+      "Soya",
+      "Vaqt",
+      "Nur",
+      "Shamol"
+    ],
+    "answer": "Soya",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Hamma narsani ko'radi, o'zini ko'rmaydi — bu nima?",
+    "options": [
+      "Linza",
+      "Shisha",
+      "Ko'z",
+      "Oyna"
+    ],
+    "answer": "Ko'z",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Suv bilan yuvsan ko'payadi — bu nima?",
+    "options": [
+      "Loy",
+      "Tuz",
+      "Qum",
+      "Ko'pik"
+    ],
+    "answer": "Ko'pik",
+    "daraja": "topishmoq"
+  },
+  {
+    "question": "Kecha kechqurun edi, bugun ertalab — bu nima?",
+    "options": [
+      "Vaqt",
+      "Tush",
+      "Tun",
+      "Uy"
+    ],
+    "answer": "Tun",
+    "daraja": "topishmoq"
+  }
+]
